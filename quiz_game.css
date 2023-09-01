@@ -1,0 +1,39 @@
+#login {
+    background-color: antiquewhite;
+    width: 400px;
+    height: 275px;
+    margin-bottom: 250px;
+    border-radius: 10px;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#game {
+    background-color: antiquewhite;
+}
+
+#container {
+    background-color: antiquewhite;
+}
+
+#block {
+    background-color: rgb(123, 255, 143);
+    border-radius: 10px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 75px;
+    border-color: rgb(102, 216, 146);
+    border-width: 10px;
+}
+
+#number_1 {
+    border-color: rgb(123, 123, 242);
+    border-width: 10px;
+}
